@@ -11,3 +11,6 @@ You can read more on this link: https://en.wikipedia.org/wiki/Damien_Hirst
 <You can read more about turtle library at this link: https://docs.python.org/3/library/turtle.html
 
 Enjoy it ! 
+
+
+![image](https://github.com/nvmarzakov/Python/assets/114495254/790c5e6e-9334-49e9-96ff-44d541f69867)
