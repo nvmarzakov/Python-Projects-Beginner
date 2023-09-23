@@ -1,3 +1,4 @@
+![image](https://github.com/nvmarzakov/Udemy-Python/assets/114495254/c7ab2909-41f1-469a-a71d-64b7ca54139e)
 
 
 1. A turtle moves forwards when you press the "Up" key. It can only move forwards, not back, left or right.
