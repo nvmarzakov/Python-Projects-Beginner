@@ -4,7 +4,8 @@ Rulls:
 
 1. You have to guess all of provinces in Bulgaria.
 2. You can,t repeat your answer(it will not count it).
-3. The game will finish after guess all of names.
+3. The game will finish after guess all of names or if you enter "Exit".
+4. If still remaining to guess a provinces , it will create csv file with provinces to learn
 
 -= The Game will be update it=- 
 
